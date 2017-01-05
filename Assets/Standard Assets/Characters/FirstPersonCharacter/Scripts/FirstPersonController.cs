@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 using UnityStandardAssets.Utility;
 using Random = UnityEngine.Random;
+using UnityEngine.SceneManagement;
 
 namespace UnityStandardAssets.Characters.FirstPerson
 {
@@ -108,6 +109,11 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_MoveDir.x = desiredMove.x*speed;
             m_MoveDir.z = desiredMove.z*speed;
 
+			if (Input.GetKeyDown ("escape")) {
+				SceneManager.LoadScene (0);
+				Cursor.visible = true;
+				Cursor.lockState = CursorLockMode.None;
+			}
 
             if (m_CharacterController.isGrounded)
             {

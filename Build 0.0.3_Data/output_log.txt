@@ -1,0 +1,259 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\spil-emilt\Documents\GitHub\Dungeon-game\Build 0.0.3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 0.975925 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33a8 -> priority: 1 
+  Thread -> id: a68 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.258215 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1029.
+Total: 0.311749 ms (FindLiveObjects: 0.062577 ms CreateObjectMapping: 0.031288 ms MarkObjects: 0.195128 ms  DeleteObjects: 0.022186 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.205858 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.502895 ms (FindLiveObjects: 0.033279 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.352140 ms  DeleteObjects: 0.093012 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.781081 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.622077 ms (FindLiveObjects: 0.120603 ms CreateObjectMapping: 0.050630 ms MarkObjects: 0.412727 ms  DeleteObjects: 0.036693 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.162623 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.506309 ms (FindLiveObjects: 0.031288 ms CreateObjectMapping: 0.024177 ms MarkObjects: 0.350718 ms  DeleteObjects: 0.098986 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.791037 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.626913 ms (FindLiveObjects: 0.112070 ms CreateObjectMapping: 0.050630 ms MarkObjects: 0.424958 ms  DeleteObjects: 0.037830 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.355191 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.255430 ms (FindLiveObjects: 0.015075 ms CreateObjectMapping: 0.009671 ms MarkObjects: 0.181759 ms  DeleteObjects: 0.048639 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256852 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.639144 ms (FindLiveObjects: 0.116052 ms CreateObjectMapping: 0.049493 ms MarkObjects: 0.432353 ms  DeleteObjects: 0.039537 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.183956 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.537313 ms (FindLiveObjects: 0.033279 ms CreateObjectMapping: 0.024177 ms MarkObjects: 0.374043 ms  DeleteObjects: 0.104390 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.781081 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.404762 ms (FindLiveObjects: 0.073101 ms CreateObjectMapping: 0.028728 ms MarkObjects: 0.277047 ms  DeleteObjects: 0.025031 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.150676 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.516549 ms (FindLiveObjects: 0.031573 ms CreateObjectMapping: 0.023608 ms MarkObjects: 0.360389 ms  DeleteObjects: 0.100408 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279323 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.509438 ms (FindLiveObjects: 0.088177 ms CreateObjectMapping: 0.044373 ms MarkObjects: 0.339340 ms  DeleteObjects: 0.036693 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.079850 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.519678 ms (FindLiveObjects: 0.030150 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.360958 ms  DeleteObjects: 0.103252 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.791037 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.648815 ms (FindLiveObjects: 0.129706 ms CreateObjectMapping: 0.050062 ms MarkObjects: 0.428656 ms  DeleteObjects: 0.039537 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.366853 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.527358 ms (FindLiveObjects: 0.032142 ms CreateObjectMapping: 0.023324 ms MarkObjects: 0.372620 ms  DeleteObjects: 0.098701 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.823463 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.610984 ms (FindLiveObjects: 0.107804 ms CreateObjectMapping: 0.050062 ms MarkObjects: 0.413865 ms  DeleteObjects: 0.038115 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.380791 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.557224 ms (FindLiveObjects: 0.032995 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.395091 ms  DeleteObjects: 0.104106 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.794450 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.661330 ms (FindLiveObjects: 0.115768 ms CreateObjectMapping: 0.050346 ms MarkObjects: 0.454540 ms  DeleteObjects: 0.039253 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.432275 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.552389 ms (FindLiveObjects: 0.032710 ms CreateObjectMapping: 0.023608 ms MarkObjects: 0.390540 ms  DeleteObjects: 0.104390 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.812085 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.597046 ms (FindLiveObjects: 0.107804 ms CreateObjectMapping: 0.049777 ms MarkObjects: 0.401918 ms  DeleteObjects: 0.036408 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.332720 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.526504 ms (FindLiveObjects: 0.031857 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.370629 ms  DeleteObjects: 0.099270 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.645686 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1030.
+Total: 0.501473 ms (FindLiveObjects: 0.089884 ms CreateObjectMapping: 0.040106 ms MarkObjects: 0.337349 ms  DeleteObjects: 0.033279 ms)
+
+The referenced script on this Behaviour (Game Object 'Start Game') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'MainMenu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.430568 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.544424 ms (FindLiveObjects: 0.031857 ms CreateObjectMapping: 0.023608 ms MarkObjects: 0.383714 ms  DeleteObjects: 0.104390 ms)
+
