@@ -14,6 +14,6 @@ public class StartScript : MonoBehaviour {
 		if (Startss == 0) {
 			Startss++;
 			SceneManager.LoadScene (1);
+		}
 	}
-}
 }
