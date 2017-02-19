@@ -42,6 +42,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private float m_NextStep;
         private bool m_Jumping;
         private AudioSource m_AudioSource;
+		private float velocityy;
 
         // Use this for initialization
         private void Start()
@@ -83,9 +84,18 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             m_PreviouslyGrounded = m_CharacterController.isGrounded;
 			if (Input.GetKeyDown ("escape")) {
-				SceneManager.LoadScene (1);
+				SceneManager.LoadScene (0);
 				Cursor.visible = true;
 				Cursor.lockState = CursorLockMode.None;
+			}
+
+
+			if ((m_CharacterController.collisionFlags & CollisionFlags.Above) != 0) {
+				velocityy = m_CharacterController.velocity.y;
+					if (velocityy > 0) {
+					Debug.Log ("Velocityy");
+					m_MoveDir.y = -velocityy;
+				}
 			}
         }
 
